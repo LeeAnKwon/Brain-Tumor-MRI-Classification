@@ -45,7 +45,6 @@ Various neural network architectures were implemented and compared to analyze pe
 ---
 
 ## Models Implemented
-- MLP / DNN
 - RNN
 - LSTM
 - GRU
